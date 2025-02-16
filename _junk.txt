@@ -1,2 +1,9 @@
 git config --global user.name "nyterian"  
 git config --global user.email "yagzcanikin@outlook.com" 
+
+git remote add origin https://github.com/nyterian/Classmate.git
+
+
+git add .
+git commit -m "update"
+git push origin main
